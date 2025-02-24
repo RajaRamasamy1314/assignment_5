@@ -65,6 +65,13 @@
   align-items: stretch;
   align-content: center;
 }
+.innerbox5middle {
+  width: 100px;
+  height: auto;
+  background-color: brown;
+  margin: 10px;
+  align-content: center;
+}
 
 .innerbox6 {
   width: 100px;
